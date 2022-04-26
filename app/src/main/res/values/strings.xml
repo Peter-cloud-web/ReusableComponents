@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReusableComponents</string>
+    <string name="button">Button</string>
+    <string name="android_developer">Android developer</string>
+</resources>
